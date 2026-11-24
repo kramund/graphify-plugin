@@ -1,0 +1,10 @@
+{
+  "name": "graphify",
+  "version": "1.0.0",
+  "description": "Graphify (Graphify-Labs/graphify) as a plugin: the /graphify skill with its reference files, and the hooks that point the assistant to the graph before it greps or reads files. Needs the graphifyy Python package.",
+  "author": { "name": "kramund" },
+  "homepage": "https://github.com/kramund/graphify-plugin",
+  "repository": "https://github.com/kramund/graphify-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["graphify", "knowledge-graph", "codebase", "skills", "hooks"]
+}

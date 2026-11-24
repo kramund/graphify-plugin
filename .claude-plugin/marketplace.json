@@ -1,0 +1,14 @@
+{
+  "name": "graphify-plugin",
+  "owner": { "name": "kramund" },
+  "description": "Graphify packaged as a Claude Code plugin (unofficial).",
+  "plugins": [
+    {
+      "name": "graphify",
+      "source": "./plugin",
+      "description": "Turn any folder of code, docs, papers, images or videos into a queryable knowledge graph, and nudge the assistant to ask the graph before grepping.",
+      "version": "1.0.0",
+      "category": "development"
+    }
+  ]
+}
